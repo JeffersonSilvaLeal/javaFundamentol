@@ -1,4 +1,4 @@
-package javafundamento.castingtiposprimitivos;
+package javafundamento.conceitoinicial;
 
 // Estrutura de Repetição
 public class WhileDoWhileEFor {
@@ -10,7 +10,7 @@ public class WhileDoWhileEFor {
 		int x = 0;
 		
 		// Estrutura de repetição
-		while (x <= 10) {
+		while (x <= 10) { 
 			// Saida de dado na tela
 			System.out.println(x);
 			// Incremento
@@ -55,7 +55,7 @@ public class WhileDoWhileEFor {
 	System.out.println("For exemplo2");
 	for (int p = 0; p < 15; p++) {
 		// Condição
-		if(p == 5) {
+		if(p == 5) { 
 			break;
 		}
 		System.out.println(p);

@@ -1,8 +1,19 @@
-package javafundamento.ifswitch;
+package javafundamento.conceitoinicial;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+ enum  Dia{
+	
+	SEGUNDA,
+	TERCA,
+	QUARTA,
+	QUINTA,
+	SEXTA,
+	SABADO,
+	DOMINGO
+}
+ 
 // Estrutura de Tomada de Decisão IfElse || SWITCH
 public class IfSwitch {
 
@@ -28,7 +39,7 @@ public class IfSwitch {
 		System.out.println(" Digite um número inteiro");
 
 		// recebe o número e entra na condição
-		int num = scanner.nextInt();
+		int num = scanner.nextInt();  
 
 		// try garante que um número será digitado, se não estoura uma exceção
 		try {
@@ -120,6 +131,11 @@ public class IfSwitch {
 		};
 		
 		System.out.println("Dia escolhido: "+ i);
+	
+	
+		
+		
 	}
+	
 
 }

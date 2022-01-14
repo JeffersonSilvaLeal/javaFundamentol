@@ -1,4 +1,4 @@
-package javafundamento.castingtiposprimitivos;
+package javafundamento.conceitoinicial;
 
 public class CastingTipoPrimitivos {
 
