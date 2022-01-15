@@ -1,4 +1,4 @@
-package javafundamento.classeobjeto;
+package javafundamento.sobrecargademetodo;
 
 public class SobrecargaDeMetodos {
 

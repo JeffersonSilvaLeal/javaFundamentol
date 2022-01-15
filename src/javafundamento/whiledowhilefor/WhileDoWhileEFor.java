@@ -1,4 +1,4 @@
-package javafundamento.conceitoinicial;
+package javafundamento.whiledowhilefor;
 
 // Estrutura de Repetição
 public class WhileDoWhileEFor {

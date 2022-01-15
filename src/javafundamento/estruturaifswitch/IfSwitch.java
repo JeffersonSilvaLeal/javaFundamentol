@@ -1,4 +1,4 @@
-package javafundamento.conceitoinicial;
+package javafundamento.estruturaifswitch;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

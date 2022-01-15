@@ -1,4 +1,4 @@
-package javafundamento.classeobjeto;
+package javafundamento.criandoclasseobjeto;
 
 public class Pessoa {
 

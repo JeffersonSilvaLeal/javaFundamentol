@@ -1,4 +1,4 @@
-package javafundamento.conceitoinicial;
+package javafundamento.variaveis;
 
 // Váriaveis são aréas de memória que voçê pode armazenar informações
 public class Variaveis {
